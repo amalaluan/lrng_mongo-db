@@ -13,7 +13,8 @@ Welcome to my learning journey repository! This repository documents my progress
 
 ## Introduction
 
-Briefly introduce what you are learning and why you chose to learn it.
+As I approach graduation, I've come to realize that merely learning tech stacks wasn't enough; I needed to dive deeper and engage with the material more passionately. With a solid foundation in Node.js, React, and Express, I am now focusing on mastering MongoDB to complete my understanding of the MERN stack. This repository captures my journey and insights as I explore MongoDB, with the hope that it will be valuable to others. My goal is to achieve my dream job, and I’m excited about the path ahead. Enjoy exploring my journey!
+
 
 ## Journal
 
