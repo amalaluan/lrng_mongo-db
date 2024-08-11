@@ -33,14 +33,14 @@ A curated list of resources I've found helpful:
 
 List of projects I've worked on:
 
-- [Project 1](projects/project1/)
+- [Project 1](https://www.inconceptlabs.com/blog/when-not-to-use-mongodb)
 - [Project 2](projects/project2/)
 
-## Notes
+## Interesting Questions
 
-Notes on various topics I've studied:
+Questions that is stucked in my head as I learn:
 
-- [Topic 1](notes/topic1.md)
+- [When not to use MongoDB](notes/topic1.md)
 - [Topic 2](notes/topic2.md)
 
 ## Media
